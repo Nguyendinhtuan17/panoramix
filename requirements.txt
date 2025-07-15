@@ -4,3 +4,5 @@ web3
 timeout_decorator
 eth-abi>=5.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
 aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
